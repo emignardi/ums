@@ -47,6 +47,7 @@ A User Management System built with Python and FastAPI that allows for the manag
 
 3. **Install Required Dependencies:**
 
+    ```bash
     pip install -r requirements.txt
 
 4. **Create Database and Update database.py Configuration:**
