@@ -41,6 +41,7 @@ A User Management System built with Python and FastAPI that allows for the manag
 
 2. **Create and Activate Virtual Environment:**
 
+    ```bash
     python -m venv venv
     ./venv/Scripts/activate.bat
 
@@ -50,6 +51,7 @@ A User Management System built with Python and FastAPI that allows for the manag
 
 4. **Create Database and Update database.py Configuration:**
 
+    ```bash
     CREATE DATABASE ums;
     CREATE DATABASE ums_test;
 
@@ -57,7 +59,9 @@ A User Management System built with Python and FastAPI that allows for the manag
 
 ## API Documentation
 
-- http://127.0.0.1:8000/docs
+   ```bash
+   http://127.0.0.1:8000/docs
+   ```
 
 ## Authors
 
