@@ -37,7 +37,7 @@ A User Management System built with Python and FastAPI that allows for the manag
 
    ```bash
    git clone https://github.com/emignardi/ums.git
-   cd user-management-system
+   cd ums
 
 2. **Create and Activate Virtual Environment:**
 
