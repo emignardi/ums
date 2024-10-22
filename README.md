@@ -64,10 +64,6 @@ A User Management System built with Python and FastAPI that allows for the manag
    http://127.0.0.1:8000/docs
    ```
 
-## Authors
-
-- [@emignardi](https://github.com/emignardi)
-
 ![screenshot](/images/index.png)
 ![screenshot](/images/create.png)
 ![screenshot](/images/update.png)
