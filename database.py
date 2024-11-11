@@ -1,7 +1,13 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
+import os
+from dotenv import load_dotenv
 
-engine = create_engine("mysql+mysqlconnector://root:password@localhost:3306/ums")
+load_dotenv()
+
+uri = os.getenv("DB_URI")
+
+engine = create_engine(uri)
 
 Base = declarative_base()
 
