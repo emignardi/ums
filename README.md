@@ -2,6 +2,9 @@
 
 A User Management System built with Python and FastAPI that allows for the management of user data with CRUD operations. This application utilizes SQLAlchemy for database interactions, Pydantic for data validation, and FastAPI for creating robust API endpoints.
 
+## Render URL
+https://ums-0zbo.onrender.com/
+
 ## Features
 
 - **User Registration**: Create new user accounts.
